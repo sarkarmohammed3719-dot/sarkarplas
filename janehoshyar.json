@@ -5,16 +5,16 @@
         "expirydate": "13-25-2025",
         "Allowoffline": true
     },
-    {
+   { 
         "device_id": "5d8d135e1edd9a92",
         "key": "shafa12345",
         "expirydate": "13-25-2025",
         "Allowoffline": true
-    }
-],
-{
+    },
+    { 
         "device_id": "bb0a7f10566ca451",
-        "key": "sarkar2000",
+        "key": "sarkar456",
         "expirydate": "13-25-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
+]
